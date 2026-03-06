@@ -152,7 +152,7 @@ Les dimensions permettent de segmenter les analyses par :
 - zone géographique
 - profil client.
 
-images/star_schema.png
+![modèle en étoile](images/star_schema.png)
 
 ----
 
@@ -172,7 +172,7 @@ Si une étape échoue, les suivantes ne s’exécutent pas.
 
 Cela garantit la cohérence des données.
 
-/images/databricks_workflow.png
+![Pipeline](images/pipeline_workflow.png)
 
 ---
 
@@ -193,7 +193,7 @@ Indicateurs principaux :
 - taux d’acceptation des prêts
 - adoption des services digitaux
 
-/images/dashboard_overview.png
+![Overview](images/overview.png)
 
 ### 👥 Dashboard — Customer Segmentation
 
@@ -206,7 +206,7 @@ Analyses réalisées :
 - distribution familiale
 - adoption des produits financiers
 
-/images/dashboard_segmentation.png
+![Segmentation](images/segmentation.png)
 
 ### 💻 Dashboard — Digital & Cross-Sell Analysis
 
@@ -219,7 +219,7 @@ Exemples d’analyses :
 - corrélation revenu / dépenses carte bancaire
 - opportunités de cross-sell
 
-/images/dashboard_crosssell.png
+![cross_sell](images/cross_sell.png)
 
 ---
 
