@@ -1,5 +1,6 @@
 # 📊 Bank Loan Analytics Pipeline
 **Databricks • Unity Catalog • Medallion Architecture • Power BI**
+
 📌 Contexte du projet
 
 Dans le secteur bancaire, l’analyse des données clients est essentielle pour améliorer les stratégies **de marketing, de vente de produits financiers et de gestion de la relation client**.
